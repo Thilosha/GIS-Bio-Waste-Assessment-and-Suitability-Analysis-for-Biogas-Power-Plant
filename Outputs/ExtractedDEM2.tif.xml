@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220607</CreaDate><CreaTime>21584500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20220607" Time="215845">ExtractByMask ASTGTMV003_N06E080_dem.tif BoundaryPolygon "D:\New folder (3)\Outputs\ExtractedDEM2.tif"</Process></lineage></DataProperties></Esri></metadata>

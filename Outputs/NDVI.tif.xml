@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220608</CreaDate><CreaTime>17335100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20220608" Time="173351">RasterCalculator "Float("B5.tif" - "B4.tif") / Float("B5.tif" + "B4.tif")" "D:\New folder (3)\Outputs\NDVI.tif"</Process></lineage></DataProperties></Esri></metadata>
